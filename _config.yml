@@ -24,10 +24,10 @@ webrick:
 #      Author      #
 # ---------------- #
 author: 刘晋霞
-organization: ThoughtWorks
-organization_url: https://www.thoughtworks.com/
+organization: ofo
+organization_url:
 location: Beijing, China
-email: liujinxia@hotmail.com
+email: liujinxia-rj@ofo.com
 
 # ---------------- #
 #    Navigation    #
