@@ -102,11 +102,7 @@ disqus_username: liujinxia-github-io
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-82434482-1
 
-baidu:
-    analytics_id: 6148579727c35b751c976cb7e2694ed5
 
 # ---------------- #
 #      Datas       #
