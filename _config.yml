@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://izhangzhihao.github.io/
+url: https://liujinxia.github.io/
 date_format: "ordinal"
 title: MyNotes
-subtitle: "Make the impossible possible, the possible easy and the easy elegant"
-description: "张志豪的个人博客"
-keywords: 张志豪
+subtitle: "nothing to say"
+description: "刘晋霞的个人博客"
+keywords: 刘晋霞
 favicon: /favicon.ico
 timezone: Asia/Beijing
 encoding: "utf-8"
-source_code: https://github.com/izhangzhihao/izhangzhihao.github.io
+source_code: https://github.com/liujinxia/liujinxia.github.io/
 side_bar_repo_limit: 5
 
 version : 1
@@ -23,11 +23,11 @@ webrick:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 张志豪
+author: 刘晋霞
 organization: ThoughtWorks
 organization_url: https://www.thoughtworks.com/
 location: Beijing, China
-email: izhangzhihao@hotmail.com
+email: liujinxia@hotmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -85,11 +85,11 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: izhangzhihao
-facebook_username: izhangzhihao
-weibo_username: izhangzhihao
-zhihu_username: 张志豪
-twitter_username: izhangzhihao
+github_username: liujinxia
+facebook_username: liujinxia
+weibo_username: liujinxia
+zhihu_username: 刘晋霞
+twitter_username: liujinxia
 
 # ---------------- #
 #      Comments    #
@@ -97,7 +97,7 @@ twitter_username: izhangzhihao
 # support provider: disqus, changyan
 comments_provider: disqus
 # !!!重要!!! 请修改下面用户名为你自己申请的
-disqus_username: izhangzhihao-github-io
+disqus_username: liujinxia-github-io
 
 # ---------------- #
 #    Analytics     #
